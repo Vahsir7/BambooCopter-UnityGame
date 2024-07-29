@@ -8,4 +8,4 @@
 
 Hurray! The game has been installed
 
-if any error occurs, please contact me at [email](mailto: [rishabairagya@gmail.com])
+if any error occurs, please contact me at rishavbairagya@gmail.com 
